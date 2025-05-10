@@ -406,8 +406,8 @@ function App() {
       </div>
       
       <p id="links-para">
-        <a href="https://x.com/imdigitalashi" target="_blank" rel="noreferrer">Twitter</a> | 
-        <a href="https://www.instagram.com/imdigitalashi/" target="_blank" rel="noreferrer">Instagram</a> | 
+        <a href="https://x.com/imdigitalashish" target="_blank" rel="noreferrer">Twitter</a> | 
+        <a href="https://www.instagram.com/imdigitalashish/" target="_blank" rel="noreferrer">Instagram</a> | 
       </p>
     </div>
   );
