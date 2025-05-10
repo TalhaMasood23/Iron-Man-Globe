@@ -1,0 +1,81 @@
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+
+#webcam {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scaleX(-1); /* Mirror the webcam feed */
+}
+
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: scaleX(-1); /* Mirror the canvas to match webcam */
+  pointer-events: none;
+}
+
+#three-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 5;
+}
+
+#status {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  z-index: 10;
+}
+
+#links-para {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  margin: 0;
+}
+
+a {
+  color: #0000FF !important;
+  margin: 0 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
