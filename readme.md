@@ -60,8 +60,8 @@ If you have questions, suggestions, or just want to say hi:
 
 - 👨‍💻 **Developer:** Muhammad Talha Masood
 - 📧 **Email:** Talhamasood086@gmail.com
-- 🐙 **GitHub:** [github.com/TalhaMasood23](https://github.com/TalhaMasood23)
-- 🌐 **Portfolio / Website:** [https://talhamasood.kesug.com/](https://talhamasood.kesug.com/)
+- 🐙 **GitHub:** https://github.com/TalhaMasood23
+- 🌐 **Portfolio / Website: https://talhamasood.kesug.com
 
 Feel free to connect — I’d love to hear your feedback or ideas!
 
