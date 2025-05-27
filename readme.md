@@ -32,7 +32,7 @@ Coming soon! (You can host it with Vercel, Netlify, or GitHub Pages.)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ironman-time-travel.git
+git clone https://github.com/TalhaMasood23/Iron-Man-Globe.git
 cd ironman-time-travel
 
 
@@ -58,10 +58,10 @@ Let me know:
 
 If you have questions, suggestions, or just want to say hi:
 
-- 👨‍💻 **Developer:** [Your Name]
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)
-- 🌐 **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com)
+- 👨‍💻 **Developer:** Muhammad Talha Masood
+- 📧 **Email:** Talhamasood086@gmail.com
+- 🐙 **GitHub:** [github.com/TalhaMasood23](https://github.com/TalhaMasood23)
+- 🌐 **Portfolio / Website:** [https://talhamasood.kesug.com/](https://talhamasood.kesug.com/)
 
 Feel free to connect — I’d love to hear your feedback or ideas!
 
