@@ -6,7 +6,7 @@
 
 ## 🎬 Preview
 
-Coming soon! (You can host it with Vercel, Netlify, or GitHub Pages.)
+Coming soon! (You can host it with Vercel, Netlify, or GitHub Pages.
 
 ---
 
